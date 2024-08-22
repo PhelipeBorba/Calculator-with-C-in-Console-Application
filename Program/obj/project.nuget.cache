@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HkJyM1KSsI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phili\\OneDrive\\Área de Trabalho\\Calculator\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phili\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\xfunc.maths\\4.4.1\\xfunc.maths.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
